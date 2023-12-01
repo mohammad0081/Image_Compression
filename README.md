@@ -1,5 +1,5 @@
 # Image_Compression
- Image Compression using K-Means clustering algorithm
+ **Image Compression Using K-Means Clustering Algorithm**
 
 * **What is Image Compression ?**
   
